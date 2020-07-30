@@ -138,3 +138,7 @@ func generateRating() {
 	}
 
 }
+
+func showRating(model string) {
+
+}
